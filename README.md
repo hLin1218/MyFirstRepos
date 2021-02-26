@@ -1,2 +1,2 @@
 # MyFirstRepos
-This is my first repository in class
+This is my first repository
